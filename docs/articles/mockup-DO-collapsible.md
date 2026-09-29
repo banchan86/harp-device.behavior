@@ -4,7 +4,7 @@ The Behavior board has four general-purpose digital outputs **DO0**–**DO3** on
 
 This article covers how to set, clear, toggle, and pulse any of these outputs in Bonsai.
 
-The complete workflow is shown below. Copy and paste it into Bonsai or build each section by following the step-by-step instructions below.
+The complete workflow is shown below. Copy and paste it into Bonsai or build each section by following the step-by-step instructions below. <span class="details-toggle-slot"></span>
 
 :::workflow
 ![Control Digital Outputs](../workflows/controldigitaloutputs-toplevel.bonsai)

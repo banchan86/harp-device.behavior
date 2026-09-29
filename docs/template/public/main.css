@@ -1,1 +1,6 @@
 @import "bonsai.css";
+
+.details-toggle {
+    margin-left: 0.5rem;
+    vertical-align: baseline;
+}
